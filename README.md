@@ -1,4 +1,4 @@
-# RFID Smart Billing System using LPC2148
+<img width="1071" height="1428" alt="image" src="https://github.com/user-attachments/assets/8e252dfe-c751-4bc2-b6ef-06dd20d145fc" /># RFID Smart Billing System using LPC2148
 <img width="1774" height="887" alt="ChatGPT Image Jul 8, 2026, 07_48_01 PM" src="https://github.com/user-attachments/assets/a31960b7-917e-4a70-ad76-443c252edd0b" />
 
 
@@ -64,7 +64,7 @@ The RFID reader scans the product tag and sends the Tag ID to the LPC2148. The m
 ## Hardware Block Diagram
 
 <img width="1536" height="1024" alt="ChatGPT Image Jul 8, 2026, 07_48_45 PM" src="https://github.com/user-attachments/assets/4c419bf4-5629-420b-bb5d-73d59738f682" />
-![Uploading image.png…]()
+<img width="1071" height="1428" alt="WhatsApp Image 2026-07-21 at 11 25 19 PM" src="https://github.com/user-attachments/assets/3d57de1c-293d-4be1-a052-20704a74a4b6" />
 
 
 ### Hardware Components
