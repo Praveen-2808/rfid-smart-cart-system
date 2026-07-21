@@ -138,7 +138,7 @@ Communication Sequence:
 - Inventory Management
 - Warehouse Automation
 - Cashless Billing Systems
-  <img width="1200" height="1200" alt="2m" src="https://github.com/user-attachments/assets/c2d884a7-9c2f-4ef2-af89-ed5b79c79ddd" />
+  <img width="1000" height="1000" alt="2m" src="https://github.com/user-attachments/assets/c2d884a7-9c2f-4ef2-af89-ed5b79c79ddd" />
 
 ---
 
